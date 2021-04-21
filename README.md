@@ -40,4 +40,4 @@ Link to the GitHub live page: https://jasmineteters.github.io/Monster-Rolodex/
 
 ## Gif of App:
 
-![](/public/React.gif)
+![](/public/react.png)
